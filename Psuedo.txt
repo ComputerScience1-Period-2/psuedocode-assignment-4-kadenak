@@ -1,10 +1,11 @@
 Kaden Kobernat - 10/18/17 - Period 7
 
 How to play BS:
-Step 1: Shuffle deck of cards
-Step 2: Evenly distribute the cards to each player
+Step 1: Shuffle deck of cards //You may want to mention that the deck being used is a standard deck of cards with only 52 cards, otherswise there is some ambiguity whether jokers are used or not.
+Step 2: Evenly distribute the cards to each player //You should mention the minimum and maximum amount of players.
 Step 3: The player with the ace of spdaes starts the turn by placing the card.
-Step 4: The next player, going clockwise, says the amount of cards they are placing down and the next number going in numerical order.
+Step 4: The next player, going clockwise, says the amount of cards they are placing down and the next number going in numerical order. //Should mention that the game goes in ascending numerical order to be more specific.
+//Also, you should specify the order of the cards that do not have any numbers: After the 10 comes the Jack, then Queen, and then the King, and once King is reached, the order re-starts again.
 Step 5: The player mentioned in step 4, places down any card and any amount of cards equal to or less than four, but they should place down the card with the next number going in numerical order if they have one in their hand.
 Step 6: All other players other than the player mentioned in step 4 have the option to call "BS".
 Step 7: If "BS" is called, and the player mentioned in step 4's statement matches the cards he/she placed down then the first person who had called BS takes all cards in the middle pile and places the cards in his/her hand.
